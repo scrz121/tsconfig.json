@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "outDir": "dist",
+    "removeComments": true,
+    "watch": false,
+    "pretty": true,
+    "moduleResolution": "Node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "compileOnSave": true,
+  "exclude": ["node_modules", ".spec.ts"]
+}
